@@ -8,7 +8,7 @@ This code is a python implementation of an AR Tag detector using OpenCV and Nump
 - Numpy
 
 ## Directory Tree
-.
+```
 ├── Code
 │   ├── main.py
 │   ├── cont_list.pkl
@@ -29,6 +29,6 @@ This code is a python implementation of an AR Tag detector using OpenCV and Nump
     ├── Tag0.mp4
     ├── Tag1.mp4
     └── Tag2.mp4
-
+```
 ## Steps to run the code
 - The script `main.py` has thwo function calls l`ena.showLena()` and `cube.showCube()`. Uncomment whichever is not required and run the `main.py` script in a terminal.
